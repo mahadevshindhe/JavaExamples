@@ -14,6 +14,7 @@
 	<modules>
 		<module>Java8Examples</module>
 		<module>JavaConcurrencyExamples</module>
+		<module>JavaConcurrencyExamples2</module>
 	</modules>
 
 
