@@ -4,4 +4,7 @@
   <artifactId>JavaExamples</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>Java8Examples</module>
+  </modules>
 </project>
