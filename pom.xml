@@ -16,6 +16,7 @@
 		<module>JavaConcurrencyExamples</module>
 		<module>JavaConcurrencyExamples2</module>
 		<module>JavaThreadInterview</module>
+		<module>DesignPatterns</module>
 	</modules>
 
 
