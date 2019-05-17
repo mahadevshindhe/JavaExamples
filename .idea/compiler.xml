@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DesignPatterns" />
+        <module name="Java8Examples" />
+        <module name="Java8Functions" />
+        <module name="JavaConcurrencyExamples" />
+        <module name="JavaConcurrencyExamples2" />
+        <module name="JavaThreadInterview" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesignPatterns" target="1.8" />
+      <module name="Java8Examples" target="1.8" />
+      <module name="Java8Functions" target="1.8" />
+      <module name="JavaConcurrencyExamples" target="1.8" />
+      <module name="JavaConcurrencyExamples2" target="1.8" />
+      <module name="JavaExamples" target="1.8" />
+      <module name="JavaThreadInterview" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
